@@ -1,0 +1,47 @@
+.h-form.data-v-133bbd6d {
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+.h-form .h-form-header.data-v-133bbd6d {
+  margin: 32rpx 8rpx;
+  color: rgba(0, 0, 0, 0.85);
+  font-size: 56rpx;
+}
+.h-form .h-form-item.data-v-133bbd6d {
+  width: 560rpx;
+  margin-bottom: 48rpx;
+}
+.h-form .h-form-item .h-form-label.data-v-133bbd6d {
+  margin-bottom: 16rpx;
+  color: rgba(0, 0, 0, 0.65);
+  font-size: 28rpx;
+}
+.h-form .h-form-item .h-form-input.data-v-133bbd6d {
+  height: 96rpx;
+  padding: 16rpx;
+  border: 2rpx solid #bbbbbb;
+  border-radius: 12rpx;
+  line-height: 64rpx;
+  font-size: 28rpx;
+  color: #bbb;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.h-form .h-form-item .h-form-input.textarea.data-v-133bbd6d {
+  height: 192rpx;
+  line-height: 1.2;
+}
+.h-form .h-form-btn.data-v-133bbd6d {
+  width: 512rpx;
+  height: 96rpx;
+  border-radius: 96rpx;
+  line-height: 96rpx;
+  font-size: 40rpx;
+  text-align: center;
+  color: #fff;
+  background-color: #00873A;
+}
+

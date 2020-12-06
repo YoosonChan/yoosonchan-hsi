@@ -1,0 +1,30 @@
+.h-work-container .h-work-item.data-v-f35e4ee4 {
+  height: 108rpx;
+  padding: 0 32rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  -webkit-box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.15);
+          box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.15);
+}
+.h-work-container .h-work-item .h-work-title.data-v-f35e4ee4 {
+  width: 100%;
+  font-size: 40rpx;
+  color: rgba(0, 0, 0, 0.75);
+  overflow: hidden;
+  white-space: nowrap;
+  -o-text-overflow: ellipsis;
+     text-overflow: ellipsis;
+}
+.h-work-container .h-work-item .h-work-class.data-v-f35e4ee4 {
+  font-size: 28rpx;
+  color: rgba(0, 0, 0, 0.65);
+}
+.h-work-container .h-work-item .h-work-tag.data-v-f35e4ee4 {
+  margin-right: 16rpx;
+}
+.h-work-container .h-work-item .h-work-name.data-v-f35e4ee4 {
+  text-align: right;
+  font-size: 28rpx;
+  color: rgba(0, 0, 0, 0.65);
+}
+

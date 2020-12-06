@@ -1,0 +1,17 @@
+.h-input .h-input-label.data-v-33ff9b75 {
+  margin: 0 0 16rpx 32rpx;
+  font-size: 36rpx;
+  color: rgba(0, 0, 0, 0.48);
+}
+.h-input input.data-v-33ff9b75 {
+  width: 512rpx;
+  height: 96rpx;
+  padding: 0 72rpx 0 32rpx;
+  border: 4rpx solid rgba(0, 0, 0, 0.48);
+  border-radius: 48rpx;
+  font-size: 36rpx;
+  color: rgba(0, 0, 0, 0.65);
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+

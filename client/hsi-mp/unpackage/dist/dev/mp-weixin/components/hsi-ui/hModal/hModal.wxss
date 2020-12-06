@@ -1,0 +1,88 @@
+.h-modal-mask.data-v-8cec53d6 {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 996;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.45);
+}
+.h-modal-mask .h-modal.data-v-8cec53d6 {
+  position: relative;
+  padding: 32rpx;
+  border: 1rpx solid #f8f8f8;
+  border-radius: 10rpx;
+  background-color: #fff;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.h-modal-mask .h-modal .h-modal-close.data-v-8cec53d6 {
+  position: absolute;
+  top: 32rpx;
+  right: 32rpx;
+  font-size: 36rpx;
+  font-weight: 900;
+  color: rgba(0, 0, 0, 0.45);
+}
+.h-modal-mask .h-modal .h-modal-close.data-v-8cec53d6:hover {
+  color: rgba(0, 0, 0, 0.65);
+}
+.h-modal-mask .h-modal .h-modal-title.data-v-8cec53d6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 84%;
+  font-size: 40rpx;
+  color: #101010;
+  white-space: nowrap;
+  overflow: hidden;
+  -o-text-overflow: ellipsis;
+     text-overflow: ellipsis;
+}
+.h-modal-mask .h-modal .h-modal-subtitle.data-v-8cec53d6 {
+  margin: 32rpx 0;
+  color: rgba(0, 0, 0, 0.65);
+  font-size: 28rpx;
+}
+.h-modal-mask .h-modal .h-modal-content.data-v-8cec53d6 {
+  overflow-y: scroll;
+  font-size: 28 rpx;
+  color: #101010;
+}
+.h-modal-mask .h-modal .h-modal-content.data-v-8cec53d6::-webkit-scrollbar {
+  width: 6rpx;
+  display: none;
+}
+.h-modal-mask .h-modal .h-modal-footer.data-v-8cec53d6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-top: 32rpx;
+}
+

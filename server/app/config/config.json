@@ -1,0 +1,29 @@
+{
+  "development": {
+    "username": "root",
+    "password": "root",
+    "database": "hsi_dev",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false,
+    "timezone": "+08:00"
+  },
+  "test": {
+    "username": "root",
+    "password": "root",
+    "database": "hsi_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false,
+    "timezone": "+08:00"
+  },
+  "production": {
+    "username": "root",
+    "password": "root",
+    "database": "hsi_prod",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false,
+    "timezone": "+08:00"
+  }
+}

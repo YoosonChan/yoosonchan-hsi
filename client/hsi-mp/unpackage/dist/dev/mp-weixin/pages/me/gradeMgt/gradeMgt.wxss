@@ -1,0 +1,48 @@
+.h-grade-container.data-v-0957e7da {
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  padding: 18rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.h-grade-container .h-grade-title.data-v-0957e7da {
+  line-height: 1.5;
+  text-align: center;
+  font-size: 40rpx;
+  color: #101010;
+}
+.h-grade-container .h-grade-select.data-v-0957e7da {
+  margin: 28rpx 0 58rpx;
+  width: 400rpx;
+  height: 60rpx;
+  border: 2rpx solid #eee;
+  border-radius: 6rpx;
+  line-height: 60rpx;
+  text-align: center;
+  font-size: 28rpx;
+  color: #101010;
+}
+.h-grade-container .h-grade-table.data-v-0957e7da {
+  font-size: 28rpx;
+  color: #5b6b73;
+  border: 1rpx solid #eee;
+  overflow-x: scroll;
+}
+.h-grade-container .h-grade-table .h-grade-row.data-v-0957e7da {
+  border-bottom: 1rpx solid #eee;
+}
+.h-grade-container .h-grade-table .h-grade-row .h-grade-col.data-v-0957e7da {
+  width: 20%;
+  padding: 16rpx;
+  text-align: center;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  overflow: hidden;
+  white-space: nowrap;
+  -o-text-overflow: ellipsis;
+     text-overflow: ellipsis;
+}
+

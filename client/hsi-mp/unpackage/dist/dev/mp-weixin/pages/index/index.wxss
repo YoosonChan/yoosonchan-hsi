@@ -1,0 +1,44 @@
+.h-info-container.data-v-e7cc4e7a {
+  padding: 32rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.h-info-container .h-info-item.data-v-e7cc4e7a {
+  padding: 32rpx;
+  margin-bottom: 32rpx;
+  border-radius: 10rpx;
+  -webkit-box-shadow: 0 1rpx 8rpx rgba(0, 0, 0, 0.45);
+          box-shadow: 0 1rpx 8rpx rgba(0, 0, 0, 0.45);
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.h-info-container .h-info-item .h-info-title.data-v-e7cc4e7a {
+  font-size: 48rpx;
+  color: #101010;
+}
+.h-info-container .h-info-item .h-info-title > view.data-v-e7cc4e7a {
+  width: 84%;
+}
+.h-info-container .h-info-item .h-info-content.data-v-e7cc4e7a {
+  margin: 32rpx 0;
+  font-size: 28rpx;
+  color: rgba(0, 0, 0, 0.65);
+  overflow: hidden;
+  white-space: nowrap;
+  -o-text-overflow: ellipsis;
+     text-overflow: ellipsis;
+}
+.h-info-container .h-info-item .h-info-footer.data-v-e7cc4e7a {
+  font-size: 28rpx;
+  color: rgba(0, 0, 0, 0.45);
+}
+.h-modal-course.data-v-e7cc4e7a {
+  margin-left: 32rpx;
+  font-size: 28rpx;
+  color: rgba(0, 0, 0, 0.65);
+}
+.h-modal-content.data-v-e7cc4e7a {
+  font-size: 36rpx;
+  color: #101010;
+}
+

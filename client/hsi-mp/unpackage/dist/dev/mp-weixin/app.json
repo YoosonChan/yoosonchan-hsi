@@ -1,0 +1,54 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/release/release",
+    "pages/me/me",
+    "pages/init/init",
+    "pages/init/parent/parentBaseInfo/parentBaseInfo",
+    "pages/init/parent/bindChild/bindChild",
+    "pages/init/teacher/teacherBaseInfo/teacherBaseInfo",
+    "pages/me/releaseMgt/releaseMgt",
+    "pages/me/feedbackMgt/feedbackMgt",
+    "pages/me/workMgt/workMgt",
+    "pages/me/parentMgt/parentMgt",
+    "pages/me/gradeMgt/gradeMgt",
+    "pages/me/courseMgt/courseMgt"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "家校通",
+    "navigationBarBackgroundColor": "#FFFFFF",
+    "backgroundColor": "#FFFFFF"
+  },
+  "tabBar": {
+    "color": "#7F7F7F",
+    "selectedColor": "#00873A",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "动态",
+        "iconPath": "static/img/tab/index.png",
+        "selectedIconPath": "static/img/tab/index_selected.png"
+      },
+      {
+        "pagePath": "pages/release/release",
+        "text": "发布",
+        "iconPath": "static/img/tab/release.png",
+        "selectedIconPath": "static/img/tab/release_selected.png"
+      },
+      {
+        "pagePath": "pages/me/me",
+        "text": "我的",
+        "iconPath": "static/img/tab/me.png",
+        "selectedIconPath": "static/img/tab/me_selected.png"
+      }
+    ]
+  },
+  "usingComponents": {
+    "h-btn": "/components/hsi-ui/hBtn/hBtn",
+    "h-modal": "/components/hsi-ui/hModal/hModal",
+    "h-tag": "/components/hsi-ui/hTag/hTag",
+    "h-input": "/components/hsi-ui/hInput/hInput"
+  }
+}

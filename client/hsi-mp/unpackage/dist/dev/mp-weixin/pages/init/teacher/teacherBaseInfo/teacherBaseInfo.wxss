@@ -1,0 +1,22 @@
+.h-tbi-container.data-v-27509289 {
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+.h-tbi-container .h-tbi-title.data-v-27509289 {
+  margin: 60rpx 0;
+  font-size: 48rpx;
+  color: rgba(0, 0, 0, 0.85);
+}
+.h-tbi-container .h-tbi-info.data-v-27509289 {
+  margin-bottom: 60rpx;
+}
+.h-tbi-container .h-tbi-tips.data-v-27509289 {
+  width: 600rpx;
+  margin: 60rpx;
+  font-size: 24rpx;
+  color: rgba(0, 0, 0, 0.48);
+}
+

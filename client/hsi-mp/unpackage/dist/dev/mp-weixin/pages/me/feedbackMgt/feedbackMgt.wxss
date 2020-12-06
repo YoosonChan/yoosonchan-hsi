@@ -1,0 +1,36 @@
+.h-feedback-container .h-feedback-item.data-v-664c8eb4 {
+  position: relative;
+  height: 108rpx;
+  padding: 0 32rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  -webkit-box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.15);
+          box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.15);
+}
+.h-feedback-container .h-feedback-item .h-feedback-title.data-v-664c8eb4 {
+  position: relative;
+  width: 40%;
+  font-size: 40rpx;
+  color: rgba(0, 0, 0, 0.75);
+  overflow: hidden;
+  white-space: nowrap;
+  -o-text-overflow: ellipsis;
+     text-overflow: ellipsis;
+}
+.h-feedback-container .h-feedback-item .h-feedback-tag.data-v-664c8eb4 {
+  width: 30%;
+}
+.h-feedback-container .h-feedback-item .h-feedback-name.data-v-664c8eb4 {
+  width: 30%;
+  text-align: right;
+  font-size: 28rpx;
+  color: rgba(0, 0, 0, 0.65);
+}
+.h-feedback-container .h-feedback-item .h-feedback-unread.data-v-664c8eb4 {
+  position: absolute;
+  top: 36%;
+  left: 8rpx;
+  font-size: 24rpx;
+  color: red;
+}
+

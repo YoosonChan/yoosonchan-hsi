@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['handleTap',['$event']]]]]}}" class="{{['h-btn',(size==='sm')?'h-sm-btn':'',(color==='orange')?'h-orange-btn':'']}}" bindtap="__e"><slot></slot></view>

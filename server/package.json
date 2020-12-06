@@ -1,0 +1,39 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Home-School Interconnection Server",
+  "main": "index.js",
+  "scripts": {
+    "run": "node .\\dist\\index.js",
+    "tsc": "tsc",
+    "tsc:w": "tsc -w",
+    "ts:init": "tsc --init",
+    "db:create": ".\\node_modules\\.bin\\sequelize db:create",
+    "db:migrate": ".\\node_modules\\.bin\\sequelize db:migrate",
+    "db:seed:all": ".\\node_modules\\.bin\\sequelize db:seed:all"
+  },
+  "keywords": [],
+  "author": "yoosonchan",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.5.3",
+    "koa-bodyparser": "^4.2.1",
+    "koa-controllers": "^0.1.6",
+    "koa2-cors": "^2.0.6",
+    "md5": "^2.2.1",
+    "moment": "^2.22.2",
+    "mysql2": "^1.6.1",
+    "reflect-metadata": "^0.1.12",
+    "sequelize": "^4.39.0"
+  },
+  "devDependencies": {
+    "@types/koa": "^2.0.46",
+    "@types/koa-bodyparser": "^4.3.0",
+    "@types/koa2-cors": "^2.0.1",
+    "@types/md5": "^2.1.33",
+    "@types/sequelize": "^4.27.27",
+    "sequelize-cli": "^5.5.1",
+    "supervisor": "^0.12.0",
+    "typescript": "^3.1.1"
+  }
+}

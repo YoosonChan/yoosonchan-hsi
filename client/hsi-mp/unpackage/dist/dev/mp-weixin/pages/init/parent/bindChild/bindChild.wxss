@@ -1,0 +1,35 @@
+.h-bc-container {
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+.h-bc-container .h-bc-title {
+  font-size: 56rpx;
+  color: rgba(0, 0, 0, 0.65);
+  text-align: center;
+}
+.h-bc-container .h-bc-input {
+  margin-top: 72rpx;
+}
+.h-bc-container .h-bc-input .h-bc-search {
+  width: 520rpx;
+  height: 104rpx;
+  margin: 6rpx 0;
+}
+.h-bc-container .h-bc-input .h-bc-search input {
+  width: 512rpx;
+  height: 96rpx;
+  padding: 0 72rpx 0 32rpx;
+  border: 4rpx solid #000;
+  border-radius: 48rpx;
+  font-size: 28rpx;
+  color: rgba(0, 0, 0, 0.65);
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.h-bc-container .h-bc-btn {
+  margin-top: 72rpx;
+}
+

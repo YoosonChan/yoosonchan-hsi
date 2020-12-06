@@ -1,0 +1,1 @@
+<view class="{{['h-tag data-v-18dbdbb5',(color==='primary')?'h-tag-primary':'',(color==='orange')?'h-tag-orange':'']}}"><slot></slot></view>

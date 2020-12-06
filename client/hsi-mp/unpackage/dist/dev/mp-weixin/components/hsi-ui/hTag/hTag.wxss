@@ -1,0 +1,17 @@
+.h-tag.data-v-18dbdbb5 {
+  display: inline-block;
+  height: 48rpx;
+  line-height: 48rpx;
+  border-radius: 10rpx;
+  padding: 0 12rpx;
+  font-size: 28rpx;
+  background-color: rgba(0, 0, 0, 0.45);
+  color: #fff;
+}
+.h-tag.h-tag-primary.data-v-18dbdbb5 {
+  background-color: #00873a;
+}
+.h-tag.h-tag-orange.data-v-18dbdbb5 {
+  background-color: #fcb421;
+}
+
